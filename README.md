@@ -9,3 +9,10 @@ dir dato
 Salida (datos.hex):
 Formato Intel
 
+Código de inicio(1 byte)
+Longitud(1 byte)
+Dirección(2 byte)
+Tipo de registro(1 byte)
+Datos(n bytes por defecto 16 bytes)
+Checksum(1 byte)
+
